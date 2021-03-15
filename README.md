@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Parth Madan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India and Machine Learning Enthusist&developer </h3>
 
 - 📝 I regularly write articles on [https://createsightseeingapp.blogspot.com/2021/03/sight-seeing-application.html](https://createsightseeingapp.blogspot.com/2021/03/sight-seeing-application.html)
 
