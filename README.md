@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madanparth786&label=Profile%20views&color=0e75b6&style=flat" alt="madanparth786" /> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 📝 I regularly write articles on [https://createsightseeingapp.blogspot.com/2021/03/sight-seeing-application.html](https://createsightseeingapp.blogspot.com/2021/03/sight-seeing-application.html)
 
 - 📫 How to reach me **parthmadan1110@gmail.com**
@@ -21,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madanparth786&show_icons=true&locale=en&layout=compact" alt="madanparth786" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madanparth786&show_icons=true&locale=en" alt="madanparth786" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madanparth786&" alt="madanparth786" /></p>
