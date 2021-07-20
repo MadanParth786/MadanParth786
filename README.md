@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parth Madan</h1>
-<h3 align="center">A passionate frontend developer from India and Machine Learning Anthusiast</h3>
+<h2 align="center">-👀 I’m interested in coding and competitive Problems dealing with real life time problems</h2>
+<h3 align="center">- 💞️ I’m looking to collaborate on for some internship programs</h3>
+<h4 align="center">- 🌱A passionate frontend developer from India and Machine Learning Anthusiast</h4>
+<h5 align="center">📫 How to reach me I am providing my linkdin Profile here u all can contact me their :linkedin.com/in/parth-madan-51a1b5192</h5>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madanparth786&label=Profile%20views&color=0e75b6&style=flat" alt="madanparth786" /> </p>
 
