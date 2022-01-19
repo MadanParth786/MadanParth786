@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Parth Madan</h1>
-<h2 align="center">-👀 I’m interested in coding and neural network anthusiast dealing with real life time problems</h2>
+<h2 align="center">-👀 I’m interested in coding and Neural Network Anthusiast dealing with real life time problems</h2>
 <h3 align="center">- 💞️ I’m looking to collaborate on for some internship programs</h3>
-<h4 align="center">- 🌱A passionate frontend developer from India and Machine Learning Anthusiast</h4>
+<h4 align="center">- 🌱A passionate frontend developer from India and Machine Learning Anthusiast and Data Analyst</h4>
 <h5 align="center">📫I’m currently persuing Btech Cse specialization in Artificial Intelligence and Machine Learning</h5>
 
 
