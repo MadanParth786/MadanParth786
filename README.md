@@ -2,7 +2,7 @@
 <h2 align="center">-👀 I’m interested in coding and dealing with real life time problems</h2>
 <h3 align="center">- 💞️ I’m looking to collaborate on for some Good IT internships programs</h3>
 <h4 align="center">- 🌱A passionate frontend developer from India Moreover a  Machine Learning and Neural Network Anthusiast along with Data Analyst</h4>
-<h5 align="center">📫I’m currently persuing Btech Cse specialization in Artificial Intelligence and Machine Learning</h5>
+<h5 align="center">📫I’m currently persuing Btech Cse specialization in Artificial Intelligence and Machine Learning 2023</h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madanparth786&label=Profile%20views&color=0e75b6&style=flat" alt="madanparth786" /> </p>
