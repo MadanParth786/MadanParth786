@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Parth Madan</h1>
 <h2 align="center">-👀 I’m interested in coding and dealing with real life time problems</h2>
-<h3 align="center">- 💞️ I’m looking to collaborate on for some Good IT internships programs</h3>
+<h3 align="center">- 💞️ Software Developer in Posist Technologies</h3>
 <h4 align="center">- 🌱A passionate Full Stack Developer and Always Open for Feedback with adaptive Nature</h4>
-<h5 align="center">📫I’m currently persuing Btech Cse specialization in Artificial Intelligence and Machine Learning 2023</h5>
+<h5 align="center">📫I’m currently pursuing Btech Cse specialization in Artificial Intelligence and Machine Learning 2023</h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madanparth786&label=Profile%20views&color=0e75b6&style=flat" alt="madanparth786" /> </p>
