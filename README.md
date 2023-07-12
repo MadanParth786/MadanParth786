@@ -9,9 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Neural Networks and data Analytics.**
-
-- 📝 I regularly write articles on [https://createsightseeingapp.blogspot.com/2021/03/sight-seeing-application.html](https://createsightseeingapp.blogspot.com/2021/03/sight-seeing-application.html)
+- 🌱 I’m currently learning **React Js and Django and AWS.**
 
 - 📫 How to reach me **parthmadan1110@gmail.com**
 
